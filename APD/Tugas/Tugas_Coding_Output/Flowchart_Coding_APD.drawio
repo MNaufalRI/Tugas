@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-0" target="aVrPpPTMZz9hAbWe6SNC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-1" target="aVrPpPTMZz9hAbWe6SNC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-1" value="Membuat list Tabel&lt;div&gt;tabel = []&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="339" y="160" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-5" target="aVrPpPTMZz9hAbWe6SNC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-5" value="membuat loop i dari 1 sampai 4&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;for i in range(1, 5):&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="349" y="280" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-7" target="aVrPpPTMZz9hAbWe6SNC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-7" value="membuat variable list baris&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;baris = []&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="349" y="400" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-9" target="aVrPpPTMZz9hAbWe6SNC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-9" value="&lt;div&gt;membuat loop dari 1 sampai 5&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;for j in range(1, 6):&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="349" y="520" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-11" target="aVrPpPTMZz9hAbWe6SNC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-11" value="&lt;div&gt;Menambahkan list di dalam baris ke lis tabel&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="348.5" y="760" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-12" target="aVrPpPTMZz9hAbWe6SNC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-12" value="Menghitung i * j dan menambahkannya ke list baris" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="349" y="640" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="240" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-16" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aVrPpPTMZz9hAbWe6SNC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="800" as="sourcePoint" />
+            <mxPoint x="240" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-17" value="Loop hingga syarat terpenuhi" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-18" target="aVrPpPTMZz9hAbWe6SNC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-18" value="print &quot;*&quot; dan angka 1 hingga 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="349" y="880" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-19" target="aVrPpPTMZz9hAbWe6SNC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-19" value="Lakukan Loop i dari 1 sampai 4 (sesuai jumlah tabel)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;for i in range(1, len(tabel) + 1):&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314.5" y="1000" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-20" target="aVrPpPTMZz9hAbWe6SNC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-20" value="print hasil i dan data dari tabel dengan i-1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;print(i, &quot; &quot;.join(map(str,tabel[i-1])))&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="1120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-24" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364.5" y="1240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-20" target="aVrPpPTMZz9hAbWe6SNC-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1140" as="sourcePoint" />
+            <mxPoint x="440" y="1090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-27" value="Loop hingga syarat terpenuhi" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1000" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVrPpPTMZz9hAbWe6SNC-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="740" as="sourcePoint" />
+            <mxPoint x="530" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aVrPpPTMZz9hAbWe6SNC-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514.5" y="1199" as="sourcePoint" />
+            <mxPoint x="564.5" y="1199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
